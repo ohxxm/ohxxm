@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [ohxxm.is-a.dev](ohxxm.is-a.dev)
 
-- 💬 Ask me about ****
-
 - 📫 Contact me via email **ohmch@outlook.com** or on Discord at **ohxxm**
 
 <h3 align="left">Languages and Tools:</h3>
