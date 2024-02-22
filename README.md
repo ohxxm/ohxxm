@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web-based projects!**
 
-- 👨‍💻 All of my projects are available at [ohxxm.is-a.dev](ohxxm.is-a.dev)
+- 👨‍💻 All of my projects are available at [ohxxm.is-a.dev](https://ohxxm.is-a.dev)
 
 - 📫 Contact me via email **ohmch@outlook.com** or on Discord at **ohxxm**
 
